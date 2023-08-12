@@ -1,4 +1,3 @@
-//test
 console.log("test");
 //ORNEK 1
 console.log("**********ÖRNEK 1**********");
