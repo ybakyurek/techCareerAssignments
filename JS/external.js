@@ -1,4 +1,3 @@
-console.log("test");
 //ORNEK 1
 console.log("**********ÖRNEK 1**********");
 let userInput1 = prompt("İlk sayıyı giriniz:");
