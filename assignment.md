@@ -152,7 +152,7 @@ if (password === repassword) {
 }
 ```
 
- **Örnek-8:**Kullanıcı tarafından girilen bir sayının negatif mi, pozitif mi ? bunu yazan JS code yazınız.
+ **Örnek-8:** Kullanıcı tarafından girilen bir sayının negatif mi, pozitif mi ? bunu yazan JS code yazınız.
  (Dikkat: normal  function ile yazınız)
 
 ```js
@@ -185,7 +185,7 @@ const userNumber = parseFloat(prompt("Lütfen bir sayı giriniz"));
 console.log(checkOddEven(userNumber));
 ```
 
- **Örnek-10:** Kullanıcıdan alınan sayıya göre Haftanın günlerini switch-case ile JS code yazınız?
+  **Örnek-10:** Kullanıcıdan alınan sayıya göre Haftanın günlerini switch-case ile JS code yazınız?
  Örneğin: kullanıcı 1 girdi: 1=pazartesi yazacak
 
 ```js
